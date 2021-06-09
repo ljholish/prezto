@@ -35,6 +35,8 @@ zstyle ':prezto:load' pmodule \
   'editor' \
   'history' \
   'directory' \
+  'archive' \
+  'git' \
   'spectrum' \
   'utility' \
   'completion' \
